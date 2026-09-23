@@ -4,6 +4,7 @@ import { FiltersPanel } from './components/Filters'
 import { StatsBar } from './components/StatsBar'
 import { JobCard } from './components/JobCard'
 import { EmptyState } from './components/EmptyState'
+import { useClickedJobs } from './hooks/useClickedJobs'
 import { useJobs } from './hooks/useJobs'
 
 export default function App() {
@@ -17,6 +18,7 @@ export default function App() {
     facetOptions,
     stats,
   } = useJobs()
+  const { isClicked, markClicked } = useClickedJobs()
 
   return (
     <div className="min-h-screen">
@@ -63,7 +65,12 @@ export default function App() {
             ) : (
               <div className="grid gap-4 sm:grid-cols-1 lg:grid-cols-2">
                 {filtered.map((job) => (
-                  <JobCard key={job.id} job={job} />
+                  <JobCard
+                    key={job.id}
+                    job={job}
+                    clicked={isClicked(job.id)}
+                    onMarkClicked={markClicked}
+                  />
                 ))}
               </div>
             )}
