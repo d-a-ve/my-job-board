@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T14:47:59.191780+01:00",
+  "generated_at": "2026-09-28T02:57:28.864740+01:00",
   "candidate": {
     "summary": "Software engineer ~4 years (mid-level), Africa/Lagos (Nigeria). Stack: React, TypeScript, Node.js, Hono, React Native. Seeking remote-anywhere or visa-sponsoring roles; exclude US-only constraints.",
     "skills": [
@@ -21,258 +21,114 @@
   },
   "jobs": [
     {
-      "id": "bc93b614cb30a1b4",
-      "title": "Senior Full-Stack Engineer (React / Node.js / TypeScript / AWS)",
-      "company": "ProfoundIQ",
-      "location": "Greater Kolkata Area",
+      "id": "4ea7a9050eb2b577",
+      "title": "Développeur Fullstack Node.js / ReactJS — IA appliquée aux opérations IT",
+      "company": "Free-Work",
+      "location": "Paris, Île-de-France, France",
       "remote": true,
       "visa_sponsorship": "unclear",
       "fit_tags": [
         "react",
-        "typescript",
         "node",
         "fullstack"
-      ],
-      "seniority": "mid-senior",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4470808234",
-      "snippet": "Matches: react, typescript, node, fullstack. Remote-friendly (Greater Kolkata Area).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "d0cf7b4299241ae6",
-      "title": "Mobile Developer (Nodejs + React Native)",
-      "company": "Avanade",
-      "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "react-native",
-        "react",
-        "node"
       ],
       "seniority": "mid",
       "posted": "2026-09-27",
       "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4454523458",
-      "snippet": "Matches: react-native, react, node. Remote-friendly (Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia).",
+      "url": "https://www.linkedin.com/jobs/view/4470811289",
+      "snippet": "Matches: react, node, fullstack. Remote-friendly (Paris, Île-de-France, France).",
       "why_included": "needs_review"
     },
     {
-      "id": "2ddb614bf3575698",
-      "title": "Senior Software Engineer / Software Developer (React Native)",
-      "company": "Sony Interactive Entertainment",
-      "location": "Waterloo, Ontario, Canada",
+      "id": "99603aec8d4ca0e3",
+      "title": "Product Engineer",
+      "company": "0G",
+      "location": "Remote",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "nextjs",
+        "react",
+        "typescript"
+      ],
+      "seniority": "mid",
+      "posted": "2026-09-27",
+      "source": "other",
+      "url": "https://www.arbeitnow.ch/jobs/companies/0g/remote-product-engineer-85511",
+      "snippet": "[Arbeitnow] Matches: nextjs, react, typescript. Remote-friendly (Remote).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "a681b7499d5a7416",
+      "title": "Software Engineer - GTM Products",
+      "company": "Wingtra 2",
+      "location": "Eastern Europe, Baltics & Balkans",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "nextjs",
+        "typescript",
+        "fullstack"
+      ],
+      "seniority": "mid",
+      "posted": "2026-09-27",
+      "source": "other",
+      "url": "https://www.arbeitnow.ch/jobs/companies/wingtra-2/software-engineer-gtm-products-eastern-europe-baltics-balkans-314900",
+      "snippet": "[Arbeitnow] Matches: nextjs, typescript, fullstack. Remote-friendly (Eastern Europe, Baltics & Balkans).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "783d7044166a37f1",
+      "title": "Mobile Developer (React Native)",
+      "company": "Nextiva",
+      "location": "Bengaluru, Karnataka, India",
       "remote": true,
       "visa_sponsorship": "unclear",
       "fit_tags": [
         "react-native",
         "react"
       ],
-      "seniority": "mid-senior",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4441854198",
-      "snippet": "Matches: react-native, react. Remote-friendly (Waterloo, Ontario, Canada).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "27843f7d01c813d8",
-      "title": "Fullstack Developer (Python/React)",
-      "company": "Filed",
-      "location": "Stockholm, Stockholm County, Sweden",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "react",
-        "fullstack"
-      ],
       "seniority": "mid",
       "posted": "2026-09-27",
       "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4451747893",
-      "snippet": "Matches: react, fullstack. Remote-friendly (Stockholm, Stockholm County, Sweden).",
+      "url": "https://www.linkedin.com/jobs/view/4470816141",
+      "snippet": "Matches: react-native, react. Remote-friendly (Bengaluru, Karnataka, India).",
       "why_included": "needs_review"
     },
     {
-      "id": "bfac6eaff9a2269b",
-      "title": "Senior Full-stack Software Engineer (Nodejs)",
-      "company": "KMS Technology, Inc.",
-      "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "node",
-        "fullstack"
-      ],
-      "seniority": "mid-senior",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4470581751",
-      "snippet": "Matches: node, fullstack. Remote-friendly (Ho Chi Minh City, Ho Chi Minh City, Vietnam).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "3bfd0870359d3e4c",
-      "title": "Node.js (TypeScript)- Senior Software Engineer",
-      "company": "Genesis Solutions",
-      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "typescript",
-        "node"
-      ],
-      "seniority": "mid-senior",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4470597784",
-      "snippet": "Matches: typescript, node. Remote-friendly (Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "54bb5dffe364d0a9",
-      "title": "Fullstack (React JS + Node JS) Developer",
+      "id": "17cf35c90f4c07a5",
+      "title": "React Native system engineer",
       "company": "Infosys",
       "location": "Bengaluru East, Karnataka, India",
       "remote": true,
       "visa_sponsorship": "unclear",
       "fit_tags": [
+        "react-native",
+        "react"
+      ],
+      "seniority": "mid",
+      "posted": "2026-09-27",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4444807563",
+      "snippet": "Matches: react-native, react. Remote-friendly (Bengaluru East, Karnataka, India).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "8661a714d92b2271",
+      "title": "Full Stack Senior Software Developer",
+      "company": "cross-ING AG",
+      "location": "Homeoffice",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
         "react",
         "fullstack"
       ],
-      "seniority": "mid",
+      "seniority": "mid-senior",
       "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4444687936",
-      "snippet": "Matches: react, fullstack. Remote-friendly (Bengaluru East, Karnataka, India).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "069b9a10bcd394cc",
-      "title": "Ingénieur fullstack Node.js / Angular (H/F)",
-      "company": "Davidson consulting",
-      "location": "Lille, Hauts-de-France, France",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "node",
-        "fullstack"
-      ],
-      "seniority": "mid",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4261002911",
-      "snippet": "Matches: node, fullstack. Remote-friendly (Lille, Hauts-de-France, France).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "90de318348d91592",
-      "title": "Desenvolvedor Full Stack Nodejs - Porto Alegre - Vaga Atualizada - Seleção em Andamento",
-      "company": "ZANC Assessoria Nacional de Cobrança",
-      "location": "Porto Alegre, Rio Grande do Sul, Brazil",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "node",
-        "fullstack"
-      ],
-      "seniority": "mid",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4470804074",
-      "snippet": "Matches: node, fullstack. Remote-friendly (Porto Alegre, Rio Grande do Sul, Brazil).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "273b323166d1c94c",
-      "title": "Full Stack TypeScript Developer",
-      "company": "Talent Syria | تالنت سوريا",
-      "location": "Damascus Governorate, Syria",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "typescript",
-        "fullstack"
-      ],
-      "seniority": "mid",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4470813107",
-      "snippet": "Matches: typescript, fullstack. Remote-friendly (Damascus Governorate, Syria).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "f12aba70c319f39e",
-      "title": "React Native Developer",
-      "company": "Codeex",
-      "location": "Yerevan, Yerevan, Armenia",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "react-native",
-        "react"
-      ],
-      "seniority": "mid",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4470802436",
-      "snippet": "Matches: react-native, react. Remote-friendly (Yerevan, Yerevan, Armenia).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "55458ff305bae48a",
-      "title": "React Native Developer",
-      "company": "HiroJet",
-      "location": "Greater Bengaluru Area",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "react-native",
-        "react"
-      ],
-      "seniority": "mid",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4471302066",
-      "snippet": "Matches: react-native, react. Remote-friendly (Greater Bengaluru Area).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "b7c0165910bc86a9",
-      "title": "Software Engineer – React Native",
-      "company": "Region Trade Bank",
-      "location": "Erbil Governorate, Iraq",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "react-native",
-        "react"
-      ],
-      "seniority": "mid",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4472442196",
-      "snippet": "Matches: react-native, react. Remote-friendly (Erbil Governorate, Iraq).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "48c11b62ad78ce65",
-      "title": "React, React Native Developer - W2 Only- No C2C - No Sponsorship",
-      "company": "Keylent Inc",
-      "location": "Jacksonville, FL",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "react-native",
-        "react"
-      ],
-      "seniority": "mid",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4472448338",
-      "snippet": "Matches: react-native, react. Remote-friendly (Jacksonville, FL).",
+      "source": "other",
+      "url": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/remote-full-stack-senior-software-developer-bern-4969",
+      "snippet": "[Arbeitnow] Matches: react, fullstack. Remote-friendly (Homeoffice).",
       "why_included": "needs_review"
     },
     {
@@ -295,24 +151,6 @@
       "why_included": "needs_review"
     },
     {
-      "id": "1869e87b0f673c4d",
-      "title": "Senior Front-End (React) Engineer",
-      "company": "Nabla",
-      "location": "Paris, Île-de-France, France",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "react",
-        "frontend"
-      ],
-      "seniority": "mid-senior",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4406065797",
-      "snippet": "Matches: react, frontend. Remote-friendly (Paris, Île-de-France, France).",
-      "why_included": "needs_review"
-    },
-    {
       "id": "91ec6c4998c722ad",
       "title": "GRC Engineer",
       "company": "Clerk",
@@ -331,96 +169,112 @@
       "why_included": "needs_review"
     },
     {
-      "id": "7f589b1f3a1def23",
-      "title": "Senior Frontend Developer (Next.js)",
-      "company": "Desent Solutions GmbH",
-      "location": "Bali, Indonesia",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "nextjs",
-        "frontend"
-      ],
-      "seniority": "mid-senior",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4472438327",
-      "snippet": "Matches: nextjs, frontend. Remote-friendly (Bali, Indonesia).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "155362d5b60aa49b",
-      "title": "Senior Software Engineer - AI Platform (Fullstack)",
-      "company": "DiliTrust",
-      "location": "Paris, Île-de-France, France",
+      "id": "34f4e294d62846b3",
+      "title": "Senior Fullstack Softare Engineer (Web)",
+      "company": "Motorola Solutions",
+      "location": "Greater Melbourne Area",
       "remote": true,
       "visa_sponsorship": "unclear",
       "fit_tags": [
         "fullstack"
       ],
       "seniority": "mid-senior",
-      "posted": "2026-09-27",
+      "posted": "2026-09-28",
       "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4436423520",
-      "snippet": "Matches: fullstack. Remote-friendly (Paris, Île-de-France, France).",
+      "url": "https://www.linkedin.com/jobs/view/4472476555",
+      "snippet": "Matches: fullstack. Remote-friendly (Greater Melbourne Area).",
       "why_included": "needs_review"
     },
     {
-      "id": "3f9f74d9a027f627",
-      "title": "Cyber Full-Stack Technical Software Engineer",
-      "company": "Deloitte",
-      "location": "Davenport, IA",
+      "id": "7127b23130fa9ff0",
+      "title": "Full Stack Developer",
+      "company": "Flexiple",
+      "location": "India",
       "remote": true,
       "visa_sponsorship": "unclear",
       "fit_tags": [
         "fullstack"
       ],
       "seniority": "mid",
-      "posted": "2026-09-27",
+      "posted": "2026-09-28",
       "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4435105554",
-      "snippet": "Matches: fullstack. Remote-friendly (Davenport, IA).",
+      "url": "https://www.linkedin.com/jobs/view/4472466740",
+      "snippet": "Matches: fullstack. Remote-friendly (India).",
       "why_included": "needs_review"
     },
     {
-      "id": "ec9e28091c8d4c4e",
+      "id": "9a2b39200643e772",
       "title": "Full Stack Engineer",
-      "company": "Payreto",
-      "location": "Makati, National Capital Region, Philippines",
+      "company": "ScienTec Consulting Pte. Ltd.",
+      "location": "Singapore, Singapore",
       "remote": true,
       "visa_sponsorship": "unclear",
       "fit_tags": [
         "fullstack"
       ],
       "seniority": "mid",
-      "posted": "2026-09-27",
+      "posted": "2026-09-28",
       "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4436307134",
-      "snippet": "Matches: fullstack. Remote-friendly (Makati, National Capital Region, Philippines).",
+      "url": "https://www.linkedin.com/jobs/view/4469408376",
+      "snippet": "Matches: fullstack. Remote-friendly (Singapore, Singapore).",
       "why_included": "needs_review"
     },
     {
-      "id": "eee6f5c316c58edc",
-      "title": "Fullstack Engineer, Cloud & App Hosting",
-      "company": "Lovable",
-      "location": "Stockholm, Stockholm County, Sweden",
+      "id": "fdf494c26fcb7730",
+      "title": "React Engineer",
+      "company": "TaskVerse",
+      "location": "India",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "react"
+      ],
+      "seniority": "mid",
+      "posted": "2026-09-28",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4472475482",
+      "snippet": "Matches: react. Remote-friendly (India).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "7b645b9d7c42cf57",
+      "title": "Full Stack Developer",
+      "company": "TechnologyOne",
+      "location": "Brisbane, Queensland, Australia",
       "remote": true,
       "visa_sponsorship": "unclear",
       "fit_tags": [
         "fullstack"
       ],
       "seniority": "mid",
-      "posted": "2026-09-27",
+      "posted": "2026-09-28",
       "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4414142636",
-      "snippet": "Matches: fullstack. Remote-friendly (Stockholm, Stockholm County, Sweden).",
+      "url": "https://www.linkedin.com/jobs/view/4472461878",
+      "snippet": "Matches: fullstack. Remote-friendly (Brisbane, Queensland, Australia).",
       "why_included": "needs_review"
     },
     {
-      "id": "d126744193ac013b",
-      "title": "Senior Fullstack Developer",
-      "company": "Reaktor",
-      "location": "Amsterdam Area",
+      "id": "d6c4d67d49a2fec9",
+      "title": "React Senior Developer",
+      "company": "Sytadelle",
+      "location": "Senior, South Australia, Australia",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "react"
+      ],
+      "seniority": "mid-senior",
+      "posted": "2026-09-27",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4471301374",
+      "snippet": "Matches: react. Remote-friendly (Senior, South Australia, Australia).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "284802b6af673f74",
+      "title": "Senior Full Stack Software Engineer",
+      "company": "Talently",
+      "location": "Dallas, TX",
       "remote": true,
       "visa_sponsorship": "unclear",
       "fit_tags": [
@@ -429,15 +283,15 @@
       "seniority": "mid-senior",
       "posted": "2026-09-27",
       "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4435417970",
-      "snippet": "Matches: fullstack. Remote-friendly (Amsterdam Area).",
+      "url": "https://www.linkedin.com/jobs/view/4455341444",
+      "snippet": "Matches: fullstack. Remote-friendly (Dallas, TX).",
       "why_included": "needs_review"
     },
     {
-      "id": "efbd2c0cc3d943d6",
-      "title": "Senior Full-Stack Engineer - Browser Extension",
-      "company": "Neo",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "id": "460104a03a0aca04",
+      "title": "Sr Developer - Full Stack",
+      "company": "Stifel Financial Corp.",
+      "location": "Memphis, TN",
       "remote": true,
       "visa_sponsorship": "unclear",
       "fit_tags": [
@@ -446,66 +300,66 @@
       "seniority": "mid-senior",
       "posted": "2026-09-27",
       "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4472450411",
-      "snippet": "Matches: fullstack. Remote-friendly (Tel Aviv-Yafo, Tel Aviv District, Israel).",
+      "url": "https://www.linkedin.com/jobs/view/4295109579",
+      "snippet": "Matches: fullstack. Remote-friendly (Memphis, TN).",
       "why_included": "needs_review"
     },
     {
-      "id": "ef703c2fd9812c24",
-      "title": "Senior Full-Stack Engineer",
-      "company": "Digivance Solutions",
-      "location": "Canada",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "fullstack"
-      ],
-      "seniority": "mid-senior",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4472449025",
-      "snippet": "Matches: fullstack. Remote-friendly (Canada).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "6b33832132b6de9d",
-      "title": "Senior Full Stack Developer",
-      "company": "Nuclear Promise X",
-      "location": "Canada",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "fullstack"
-      ],
-      "seniority": "mid-senior",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4374514399",
-      "snippet": "Matches: fullstack. Remote-friendly (Canada).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "adf0349de52931c2",
-      "title": "Senior Software Engineer, Full Stack",
-      "company": "Thomson Reuters",
+      "id": "f266aa0d078e557b",
+      "title": "Associate or Vice President Full Stack Engineer",
+      "company": "BMO Capital Markets",
       "location": "Toronto, Ontario, Canada",
       "remote": true,
       "visa_sponsorship": "unclear",
       "fit_tags": [
         "fullstack"
       ],
-      "seniority": "mid-senior",
+      "seniority": "mid",
       "posted": "2026-09-27",
       "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4395484667",
+      "url": "https://www.linkedin.com/jobs/view/4454592851",
       "snippet": "Matches: fullstack. Remote-friendly (Toronto, Ontario, Canada).",
       "why_included": "needs_review"
     },
     {
-      "id": "43068484c75f5810",
-      "title": "Senior Full-Stack Developer",
-      "company": "Roeto",
-      "location": "Tel Aviv District, Israel",
+      "id": "925f59032e666f5b",
+      "title": "Full Stack Engineer (AI-Native Development)",
+      "company": "Kynodex",
+      "location": "Noida, Uttar Pradesh, India",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "fullstack"
+      ],
+      "seniority": "mid",
+      "posted": "2026-09-27",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4471308353",
+      "snippet": "Matches: fullstack. Remote-friendly (Noida, Uttar Pradesh, India).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "1e18088e039a5a9b",
+      "title": "Full Stack Engineer",
+      "company": "YAGY",
+      "location": "Pune City, Maharashtra, India",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "fullstack"
+      ],
+      "seniority": "mid",
+      "posted": "2026-09-27",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4470819273",
+      "snippet": "Matches: fullstack. Remote-friendly (Pune City, Maharashtra, India).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "4d57075c535e5244",
+      "title": "Senior Full Stack Software Developer",
+      "company": "ISS-Corporate",
+      "location": "Oslo, Oslo, Norway",
       "remote": true,
       "visa_sponsorship": "unclear",
       "fit_tags": [
@@ -514,15 +368,32 @@
       "seniority": "mid-senior",
       "posted": "2026-09-27",
       "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4466624068",
-      "snippet": "Matches: fullstack. Remote-friendly (Tel Aviv District, Israel).",
+      "url": "https://www.linkedin.com/jobs/view/4414913111",
+      "snippet": "Matches: fullstack. Remote-friendly (Oslo, Oslo, Norway).",
       "why_included": "needs_review"
     },
     {
-      "id": "8d598e3022f19c9f",
+      "id": "67d064cd565317e3",
+      "title": "Full Stack Developer",
+      "company": "The People's Lab",
+      "location": "Cairo, Egypt",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "fullstack"
+      ],
+      "seniority": "mid",
+      "posted": "2026-09-27",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4470571355",
+      "snippet": "Matches: fullstack. Remote-friendly (Cairo, Egypt).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "c6417fe77aee4828",
       "title": "Senior Full Stack Engineer",
-      "company": "Versant Media",
-      "location": "Orlando, FL",
+      "company": "Polygon Technology",
+      "location": "Dhaka, Dhaka, Bangladesh",
       "remote": true,
       "visa_sponsorship": "unclear",
       "fit_tags": [
@@ -531,14 +402,133 @@
       "seniority": "mid-senior",
       "posted": "2026-09-27",
       "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4435254862",
-      "snippet": "Matches: fullstack. Remote-friendly (Orlando, FL).",
+      "url": "https://www.linkedin.com/jobs/view/4472460311",
+      "snippet": "Matches: fullstack. Remote-friendly (Dhaka, Dhaka, Bangladesh).",
       "why_included": "needs_review"
     },
     {
-      "id": "287c4b98fffca0c6",
-      "title": "Senior Full Stack Developer -5685",
-      "company": "entrypoint",
+      "id": "fb936971bdf54e97",
+      "title": "Full-Stack Developer",
+      "company": "Sahara Cyber Tech",
+      "location": "Jamnagar, Gujarat, India",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "fullstack"
+      ],
+      "seniority": "mid",
+      "posted": "2026-09-27",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4470804668",
+      "snippet": "Matches: fullstack. Remote-friendly (Jamnagar, Gujarat, India).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "21698b6366395d8d",
+      "title": "Agentic Software Engineer (OpenAI Codex) - Remote - Colombia",
+      "company": "FullStack",
+      "location": "Medellin, Antioquia, Colombia",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "fullstack"
+      ],
+      "seniority": "mid",
+      "posted": "2026-09-27",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4377027657",
+      "snippet": "Matches: fullstack. Remote-friendly (Medellin, Antioquia, Colombia).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "02962dc513726bb3",
+      "title": "Agentic Software Engineer (GitHub Copilot) - Remote - Colombia",
+      "company": "FullStack",
+      "location": "Santa Marta, Magdalena, Colombia",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "fullstack"
+      ],
+      "seniority": "mid",
+      "posted": "2026-09-27",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4377033379",
+      "snippet": "Matches: fullstack. Remote-friendly (Santa Marta, Magdalena, Colombia).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "0bf84ef1e4305340",
+      "title": "Full Stack App Development Manager - C12 - PUNE",
+      "company": "Citi",
+      "location": "Pune Division, Maharashtra, India",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "fullstack"
+      ],
+      "seniority": "mid",
+      "posted": "2026-09-27",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4426616868",
+      "snippet": "Matches: fullstack. Remote-friendly (Pune Division, Maharashtra, India).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "b5441314da4ca10e",
+      "title": "Senior Full-Stack Engineer",
+      "company": "Plant-A Insights Group",
+      "location": "Philippines",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "fullstack"
+      ],
+      "seniority": "mid-senior",
+      "posted": "2026-09-27",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4471313135",
+      "snippet": "Matches: fullstack. Remote-friendly (Philippines).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "43e5853b90bc237e",
+      "title": "Full Stack Developer (English B1+ required, remote)",
+      "company": "AGENTIC SOFTWARE, INC.",
+      "location": "Colombia",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "fullstack"
+      ],
+      "seniority": "mid",
+      "posted": "2026-09-27",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4470809966",
+      "snippet": "Matches: fullstack. Remote-friendly (Colombia).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "23e68d5248e73773",
+      "title": "Full Stack Engineer",
+      "company": "Jurimesh",
+      "location": "Ghent, Flemish Region, Belgium",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "fullstack"
+      ],
+      "seniority": "mid",
+      "posted": "2026-09-27",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4471099305",
+      "snippet": "Matches: fullstack. Remote-friendly (Ghent, Flemish Region, Belgium).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "25a999b9cd760be7",
+      "title": "Senior Software Engineer (Full Stack)",
+      "company": "DT",
       "location": "Petah Tikva, Center District, Israel",
       "remote": true,
       "visa_sponsorship": "unclear",
@@ -548,15 +538,66 @@
       "seniority": "mid-senior",
       "posted": "2026-09-27",
       "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4471076795",
+      "url": "https://www.linkedin.com/jobs/view/4471097298",
       "snippet": "Matches: fullstack. Remote-friendly (Petah Tikva, Center District, Israel).",
       "why_included": "needs_review"
     },
     {
-      "id": "104fa9dae1705dc5",
-      "title": "Full Stack Developer",
-      "company": "Spatial Front, Inc",
-      "location": "Arlington, VA",
+      "id": "2d53c68717e9c140",
+      "title": "Senior Software Engineer, Full-stack",
+      "company": "Anthropic",
+      "location": "Seattle, WA",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "fullstack"
+      ],
+      "seniority": "mid-senior",
+      "posted": "2026-09-27",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4396347729",
+      "snippet": "Matches: fullstack. Remote-friendly (Seattle, WA).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "820f6fabe6e5f94a",
+      "title": "Senior / Intermediate Full Stack Engineer (Backend-Leaning)",
+      "company": "MONKEY Catering Platform",
+      "location": "Canada",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "fullstack"
+      ],
+      "seniority": "mid-senior",
+      "posted": "2026-09-27",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4454576497",
+      "snippet": "Matches: fullstack. Remote-friendly (Canada).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "63e2d1b8f47987b8",
+      "title": "Senior Full Stack Engineer (B2B - Warsaw)",
+      "company": "Fresha",
+      "location": "Warsaw, Mazowieckie, Poland",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "fullstack"
+      ],
+      "seniority": "mid-senior",
+      "posted": "2026-09-27",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4436720238",
+      "snippet": "Matches: fullstack. Remote-friendly (Warsaw, Mazowieckie, Poland).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "17e0148dcf86e358",
+      "title": "Développeur Freelance Full-Stack & Automatisation IA",
+      "company": "L.E.A.SE. S.A. (Luxembourg Engineering & Application Services)",
+      "location": "Liège, Walloon Region, Belgium",
       "remote": true,
       "visa_sponsorship": "unclear",
       "fit_tags": [
@@ -565,15 +606,49 @@
       "seniority": "mid",
       "posted": "2026-09-27",
       "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4453599999",
-      "snippet": "Matches: fullstack. Remote-friendly (Arlington, VA).",
+      "url": "https://www.linkedin.com/jobs/view/4470817729",
+      "snippet": "Matches: fullstack. Remote-friendly (Liège, Walloon Region, Belgium).",
       "why_included": "needs_review"
     },
     {
-      "id": "db93e51cc42da208",
+      "id": "06ba1ef34da9c132",
+      "title": "Senior Full Stack Developer",
+      "company": "micro1",
+      "location": "NAMER",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "fullstack"
+      ],
+      "seniority": "mid-senior",
+      "posted": "2026-09-27",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4472443873",
+      "snippet": "Matches: fullstack. Remote-friendly (NAMER).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "64f1f4ae68061fb8",
+      "title": "Senior Fullstack Developer",
+      "company": "Ditto Consulting",
+      "location": "Croatia",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "fullstack"
+      ],
+      "seniority": "mid-senior",
+      "posted": "2026-09-27",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4471314092",
+      "snippet": "Matches: fullstack. Remote-friendly (Croatia).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "8fc9a992ea2c59c6",
       "title": "Full Stack Engineer",
-      "company": "Digital Fox",
-      "location": "North Macedonia",
+      "company": "Sourcebae",
+      "location": "Hyderabad, Telangana, India",
       "remote": true,
       "visa_sponsorship": "unclear",
       "fit_tags": [
@@ -582,110 +657,76 @@
       "seniority": "mid",
       "posted": "2026-09-27",
       "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4470589894",
-      "snippet": "Matches: fullstack. Remote-friendly (North Macedonia).",
+      "url": "https://www.linkedin.com/jobs/view/4472094244",
+      "snippet": "Matches: fullstack. Remote-friendly (Hyderabad, Telangana, India).",
       "why_included": "needs_review"
     },
     {
-      "id": "08c2669e87139d14",
-      "title": "Senior Full stack Engineer",
-      "company": "Anchor",
-      "location": "Tel Aviv District, Israel",
+      "id": "6655682224315a85",
+      "title": "Senior Frontend Software Engineer",
+      "company": "Coulter Services",
+      "location": "Santa Clara, CA",
       "remote": true,
       "visa_sponsorship": "unclear",
       "fit_tags": [
-        "fullstack"
+        "frontend"
+      ],
+      "seniority": "mid-senior",
+      "posted": "2026-09-28",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4471317147",
+      "snippet": "Matches: frontend. Remote-friendly (Santa Clara, CA).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "5696aeb58b24c3cf",
+      "title": "Frontend Developer",
+      "company": "TaskVerse",
+      "location": "India",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "frontend"
+      ],
+      "seniority": "mid",
+      "posted": "2026-09-28",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4472475493",
+      "snippet": "Matches: frontend. Remote-friendly (India).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "c331d13e9c34d6b5",
+      "title": "Front End Engineering",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "frontend"
+      ],
+      "seniority": "mid",
+      "posted": "2026-09-28",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4471304810",
+      "snippet": "Matches: frontend. Remote-friendly (Bengaluru East, Karnataka, India).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "8593cc6ae98283dc",
+      "title": "Senior Frontend Engineer",
+      "company": "LSEG",
+      "location": "London, England, United Kingdom",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "frontend"
       ],
       "seniority": "mid-senior",
       "posted": "2026-09-27",
       "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4472433649",
-      "snippet": "Matches: fullstack. Remote-friendly (Tel Aviv District, Israel).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "c40c1e49ea16579e",
-      "title": "Engineering Team Lead – Full Stack / Backend",
-      "company": "Stealth Startup",
-      "location": "Tel Aviv District, Israel",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "fullstack"
-      ],
-      "seniority": "mid",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4470592942",
-      "snippet": "Matches: fullstack. Remote-friendly (Tel Aviv District, Israel).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "1eea7360301b5fd9",
-      "title": "Programador full stack",
-      "company": "EVenergia",
-      "location": "Valencia, Valencian Community, Spain",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "fullstack"
-      ],
-      "seniority": "mid",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4472213470",
-      "snippet": "Matches: fullstack. Remote-friendly (Valencia, Valencian Community, Spain).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "ed75b139663bb313",
-      "title": "Senior Full Stack",
-      "company": "Elbit Systems Israel",
-      "location": "Ramat Gan, Tel Aviv District, Israel",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "fullstack"
-      ],
-      "seniority": "mid-senior",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4406465366",
-      "snippet": "Matches: fullstack. Remote-friendly (Ramat Gan, Tel Aviv District, Israel).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "cbb1ed83d8e13259",
-      "title": "Agentic Software Engineer (GitHub Copilot) - Remote - Colombia",
-      "company": "FullStack",
-      "location": "Cali, Valle del Cauca, Colombia",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "fullstack"
-      ],
-      "seniority": "mid",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4377028525",
-      "snippet": "Matches: fullstack. Remote-friendly (Cali, Valle del Cauca, Colombia).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "7515c121adfb6539",
-      "title": "Full Stack Engineer - Panorama",
-      "company": "McKinsey & Company",
-      "location": "Budapest, Budapest, Hungary",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "fullstack"
-      ],
-      "seniority": "mid",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4436443161",
-      "snippet": "Matches: fullstack. Remote-friendly (Budapest, Budapest, Hungary).",
+      "url": "https://www.linkedin.com/jobs/view/4395436255",
+      "snippet": "Matches: frontend. Remote-friendly (London, England, United Kingdom).",
       "why_included": "needs_review"
     },
     {
@@ -706,129 +747,10 @@
       "why_included": "needs_review"
     },
     {
-      "id": "1a3dce6e864d1444",
-      "title": "Agentic Software Engineer (OpenAI Codex) - Remote - Colombia",
-      "company": "FullStack",
-      "location": "Colombia",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "fullstack"
-      ],
-      "seniority": "mid",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4377027637",
-      "snippet": "Matches: fullstack. Remote-friendly (Colombia).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "6023058c8c843ad6",
-      "title": "Full Stack Software Engineer- Networking exp is a must",
-      "company": "SonicWall",
-      "location": "Chennai, Tamil Nadu, India",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "fullstack"
-      ],
-      "seniority": "mid",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4408525473",
-      "snippet": "Matches: fullstack. Remote-friendly (Chennai, Tamil Nadu, India).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "ea4f1e402c0c0078",
-      "title": "Senior AI Fullstack Software Engineer",
-      "company": "Lumenalta",
-      "location": "Costa Rica",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "fullstack"
-      ],
-      "seniority": "mid-senior",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4472429745",
-      "snippet": "Matches: fullstack. Remote-friendly (Costa Rica).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "eed96bc585a3ef3b",
-      "title": "Senior Full-Stack Mobile Developer",
-      "company": "Arpeely",
-      "location": "Tel Aviv District, Israel",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "fullstack"
-      ],
-      "seniority": "mid-senior",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4471089583",
-      "snippet": "Matches: fullstack. Remote-friendly (Tel Aviv District, Israel).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "5ba94541506fa207",
-      "title": "Mobile Full Stack Development Engineer",
-      "company": "McAfee",
-      "location": "Frisco, TX",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "fullstack"
-      ],
-      "seniority": "mid",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4434684368",
-      "snippet": "Matches: fullstack. Remote-friendly (Frisco, TX).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "0ca99b4bda74c69c",
-      "title": "Full Stack Software Engineer  - Cape Town",
-      "company": "Theodo",
-      "location": "Cape Town, Western Cape, South Africa",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "fullstack"
-      ],
-      "seniority": "mid",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4472429393",
-      "snippet": "Matches: fullstack. Remote-friendly (Cape Town, Western Cape, South Africa).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "7cbdc4e73e19508b",
-      "title": "Senior Software Engineer (Real-time Collaborative Platform – Full Stack)",
-      "company": "Centre for Strategic Infocomm Technologies (CSIT)",
-      "location": "Singapore, Singapore",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "fullstack"
-      ],
-      "seniority": "mid-senior",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4264550365",
-      "snippet": "Matches: fullstack. Remote-friendly (Singapore, Singapore).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "fe48f3d655c6dbcc",
+      "id": "02b1f319630a2aa8",
       "title": "Frontend Engineer",
-      "company": "Higgsfield AI",
-      "location": "Almaty, Almaty, Kazakhstan",
+      "company": "Evlo AI",
+      "location": "New York, NY",
       "remote": true,
       "visa_sponsorship": "unclear",
       "fit_tags": [
@@ -837,100 +759,15 @@
       "seniority": "mid",
       "posted": "2026-09-27",
       "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4455120727",
-      "snippet": "Matches: frontend. Remote-friendly (Almaty, Almaty, Kazakhstan).",
+      "url": "https://www.linkedin.com/jobs/view/4471095490",
+      "snippet": "Matches: frontend. Remote-friendly (New York, NY).",
       "why_included": "needs_review"
     },
     {
-      "id": "a0c3977b5b259616",
-      "title": "Frontend Developer",
-      "company": "TESCO SW a.s.",
-      "location": "Olomouc, Olomouc, Czechia",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "frontend"
-      ],
-      "seniority": "mid",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4470593513",
-      "snippet": "Matches: frontend. Remote-friendly (Olomouc, Olomouc, Czechia).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "1b06b94a77c7714c",
-      "title": "Software Engineer, Frontend",
-      "company": "Tessera Labs",
-      "location": "San Jose, CA",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "frontend"
-      ],
-      "seniority": "mid",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4395943234",
-      "snippet": "Matches: frontend. Remote-friendly (San Jose, CA).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "3695e27c96b24d85",
-      "title": "Frontend Engineer",
-      "company": "A5 SYNC",
-      "location": "Kathmandu, Bāgmatī, Nepal",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "frontend"
-      ],
-      "seniority": "mid",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4471094036",
-      "snippet": "Matches: frontend. Remote-friendly (Kathmandu, Bāgmatī, Nepal).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "b2e44ba1b8eee28e",
-      "title": "Senior Software Engineer- Front End",
-      "company": "Walmart Global Tech",
-      "location": "Sunnyvale, CA",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "frontend"
-      ],
-      "seniority": "mid-senior",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4416380173",
-      "snippet": "Matches: frontend. Remote-friendly (Sunnyvale, CA).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "3f0d020d8eb9d245",
-      "title": "Senior Frontend Developer",
-      "company": "Decentriq",
-      "location": "Zurich, Zurich, Switzerland",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "frontend"
-      ],
-      "seniority": "mid-senior",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4470803322",
-      "snippet": "Matches: frontend. Remote-friendly (Zurich, Zurich, Switzerland).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "d620935b867bd239",
+      "id": "38cf4f54cd730b89",
       "title": "Senior Frontend Engineer",
-      "company": "Six Robotics",
-      "location": "Oslo, Oslo, Norway",
+      "company": "Legion Technologies",
+      "location": "Bucharest, Bucharest, Romania",
       "remote": true,
       "visa_sponsorship": "unclear",
       "fit_tags": [
@@ -939,15 +776,83 @@
       "seniority": "mid-senior",
       "posted": "2026-09-27",
       "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4451246408",
-      "snippet": "Matches: frontend. Remote-friendly (Oslo, Oslo, Norway).",
+      "url": "https://www.linkedin.com/jobs/view/4441816437",
+      "snippet": "Matches: frontend. Remote-friendly (Bucharest, Bucharest, Romania).",
       "why_included": "needs_review"
     },
     {
-      "id": "de272d9ffb01227c",
-      "title": "Senior Frontend Engineer (up to £130k)",
-      "company": "Dex",
-      "location": "London, England, United Kingdom",
+      "id": "dc0dcea6145288d8",
+      "title": "Credit and Systematic Trading Front End Developer, Vice President",
+      "company": "Citi",
+      "location": "New York, NY",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "frontend"
+      ],
+      "seniority": "mid",
+      "posted": "2026-09-27",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4394720863",
+      "snippet": "Matches: frontend. Remote-friendly (New York, NY).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "2b98045289b25044",
+      "title": "Front-End Engineer II",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, India",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "frontend"
+      ],
+      "seniority": "mid",
+      "posted": "2026-09-27",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4463771872",
+      "snippet": "Matches: frontend. Remote-friendly (Bengaluru, Karnataka, India).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "9e8d491ff52f2f9c",
+      "title": "Frontend Engineer (Vue.js)",
+      "company": "Rhino Partners",
+      "location": "Singapore",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "frontend"
+      ],
+      "seniority": "mid",
+      "posted": "2026-09-27",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4471303490",
+      "snippet": "Matches: frontend. Remote-friendly (Singapore).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "ed88e27699cd0284",
+      "title": "[SDx] Frontend Developer - Robot/Smart Factory",
+      "company": "Hyundai AutoEver",
+      "location": "Seoul, Seoul, South Korea",
+      "remote": true,
+      "visa_sponsorship": "unclear",
+      "fit_tags": [
+        "frontend"
+      ],
+      "seniority": "mid",
+      "posted": "2026-09-27",
+      "source": "linkedin",
+      "url": "https://www.linkedin.com/jobs/view/4426049302",
+      "snippet": "Matches: frontend. Remote-friendly (Seoul, Seoul, South Korea).",
+      "why_included": "needs_review"
+    },
+    {
+      "id": "e2955f5e9cbe4e3b",
+      "title": "Senior Software Engineer, Frontend",
+      "company": "Harvey",
+      "location": "Toronto, Ontario, Canada",
       "remote": true,
       "visa_sponsorship": "unclear",
       "fit_tags": [
@@ -956,15 +861,15 @@
       "seniority": "mid-senior",
       "posted": "2026-09-27",
       "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4472433271",
-      "snippet": "Matches: frontend. Remote-friendly (London, England, United Kingdom).",
+      "url": "https://www.linkedin.com/jobs/view/4426683397",
+      "snippet": "Matches: frontend. Remote-friendly (Toronto, Ontario, Canada).",
       "why_included": "needs_review"
     },
     {
-      "id": "e325f9f4a5b3c160",
-      "title": "Frontend Developer",
-      "company": "Jumbo Supermarkten",
-      "location": "Veghel, North Brabant, Netherlands",
+      "id": "f45016db56762856",
+      "title": "Front End Software Engineer",
+      "company": "MORSE Corp",
+      "location": "Cambridge, MA",
       "remote": true,
       "visa_sponsorship": "unclear",
       "fit_tags": [
@@ -973,15 +878,15 @@
       "seniority": "mid",
       "posted": "2026-09-27",
       "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4426952648",
-      "snippet": "Matches: frontend. Remote-friendly (Veghel, North Brabant, Netherlands).",
+      "url": "https://www.linkedin.com/jobs/view/4432707829",
+      "snippet": "Matches: frontend. Remote-friendly (Cambridge, MA).",
       "why_included": "needs_review"
     },
     {
-      "id": "e2e9a2bc597c3757",
-      "title": "Frontend Engineer",
-      "company": "Jumbo Supermarkten",
-      "location": "Veghel, North Brabant, Netherlands",
+      "id": "311638864a91fff0",
+      "title": "Frontend &amp; Mobile Developer",
+      "company": "LHH",
+      "location": "Busto Arsizio, Lombardy, Italy",
       "remote": true,
       "visa_sponsorship": "unclear",
       "fit_tags": [
@@ -990,32 +895,15 @@
       "seniority": "mid",
       "posted": "2026-09-27",
       "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4453559377",
-      "snippet": "Matches: frontend. Remote-friendly (Veghel, North Brabant, Netherlands).",
+      "url": "https://www.linkedin.com/jobs/view/4463769822",
+      "snippet": "Matches: frontend. Remote-friendly (Busto Arsizio, Lombardy, Italy).",
       "why_included": "needs_review"
     },
     {
-      "id": "f7131cb13cf8931c",
-      "title": "Senior, Software Engineer (Front End)",
-      "company": "Walmart Global Tech",
-      "location": "Sunnyvale, CA",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "frontend"
-      ],
-      "seniority": "mid-senior",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4337460176",
-      "snippet": "Matches: frontend. Remote-friendly (Sunnyvale, CA).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "58ce112cc4218e09",
-      "title": "Software Engineer, Frontend",
-      "company": "Wealthfront",
-      "location": "San Francisco, CA",
+      "id": "95a5eb82c6c01533",
+      "title": "Software Engineer, Web (Frontend)",
+      "company": "Headout",
+      "location": "Bengaluru, Karnataka, India",
       "remote": true,
       "visa_sponsorship": "unclear",
       "fit_tags": [
@@ -1024,42 +912,8 @@
       "seniority": "mid",
       "posted": "2026-09-27",
       "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4453732621",
-      "snippet": "Matches: frontend. Remote-friendly (San Francisco, CA).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "9ff887e1f146b5f5",
-      "title": "Frontend Developer",
-      "company": "NTT DATA, Inc.",
-      "location": "Jakarta Metropolitan Area",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "frontend"
-      ],
-      "seniority": "mid",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4425314053",
-      "snippet": "Matches: frontend. Remote-friendly (Jakarta Metropolitan Area).",
-      "why_included": "needs_review"
-    },
-    {
-      "id": "b4e2e9c004b6f485",
-      "title": "Senior Forward Deployed Developer (Golang/Next.js)",
-      "company": "CGI",
-      "location": "Halifax, Nova Scotia, Canada",
-      "remote": true,
-      "visa_sponsorship": "unclear",
-      "fit_tags": [
-        "nextjs"
-      ],
-      "seniority": "mid-senior",
-      "posted": "2026-09-27",
-      "source": "linkedin",
-      "url": "https://www.linkedin.com/jobs/view/4444775787",
-      "snippet": "Matches: nextjs. Remote-friendly (Halifax, Nova Scotia, Canada).",
+      "url": "https://www.linkedin.com/jobs/view/4468537760",
+      "snippet": "Matches: frontend. Remote-friendly (Bengaluru, Karnataka, India).",
       "why_included": "needs_review"
     }
   ]
